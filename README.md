@@ -50,7 +50,7 @@ to jump the given obstacle. If the player hits the obstacle, the game ends there
 
 *********************************************************
 
-## Main Files
+## MAIN FILES
 
 **main_game.c**
 > This is the main c file with all the codes.
