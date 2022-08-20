@@ -4,7 +4,7 @@ A Dinosaur Run Game based on C Programming Language
 
 *********************************************************
 
-![alt text](game screen.png "Logo Title Text 1")
+![alt text](https://github.com/SanjivPahari/Dinosaur-Game-in-C/blob/51587f61d63a761f6598aa1ff040605f4530feb4/game%20screen.png"Logo Title Text 1")
 
 
 
