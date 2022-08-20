@@ -11,10 +11,10 @@ A Dinosaur Run Game based on C Programming Language
 
 ## Developers:
 
-Sanjiv Pahari
-Krishna Gupta
-Manoj Bhatta
-Nabin Chaudhary
+- Sanjiv Pahari
+- Krishna Gupta
+- Manoj Bhatta
+- Nabin Chaudhary
 
 We developed this project during my 1st sem during Bachelor of Mechanical Engineering at Pulchowk Campus, IOE, TU.
 
