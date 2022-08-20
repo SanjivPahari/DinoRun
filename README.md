@@ -6,6 +6,7 @@ A Dinosaur Run Game based on C Programming Language
 
 ![This is an image](game screen.png)
 
+![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 
 
 
