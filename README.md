@@ -120,3 +120,18 @@ Void print_dino_upperbody()
 ```
 >This function prints, as the name suggests, the body of the dino in game.
 
+
+*********************************************************
+
+## CONCLUSIONS
+
+After writing, debugging , testing and executing the program following conclusions can be
+made.
+
+● This program is able to make the interface of the dino game to be played by a
+user
+● This program is able to display the top scores scored after reading the from a file.
+● User can view his her individual scores if he/she wishes to
+● The interface of the program is interactive enough to provide a decent experience
+for the user while playing
+● Finally, it has the functionality to remove all the stored data
