@@ -52,48 +52,56 @@ functions are used to accomplish the final result. The following are the functio
 the program.
 
 ```c
-
 Int main()
-
+```
 It is the main function of program. The execution of the program starts from here.
 
-
+```c
 Void menu()
-
+```
 This function is used to display the initial menu to choose for user.
 
+
+```c
 Void Dino_Game_Home()
+```
 This function is the home screen displayed after user chooses to play a new game.
 Every part of the game is displayed within this function.
 
+```c
 Void Dino_Game_Main_Display()
-
+```
 This function displays the data including the current score and the highest score of
 user.
 
+```c
 Void top10_score()
+```
+This function displays the highest 10 scores scored by users.
 
-this function displays the highest 10 scores scored by users.
-
+```c
 Void your_rank()
+```
+This function displays the highest scores scored by a specific user.
 
-this function displays the highest scores scored by a specific user.
-
+```c
 Void reset_history()
-
+```
 This function is used to reset all the data that is stored including the highest score
 and user data.
 
+```c
 Void updatae_highscore()
-
+```
 This function is used to update the highest score in real time.
 
+```c
 Void print_obstacle()
-
+```
 This function prints the obstacles for dino to jump .
 
+```c
 Void print_dino_upperbody()
-
+```
 This function prints, as the name suggests, the body of the dino in game.
 
-```
