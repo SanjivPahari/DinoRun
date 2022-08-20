@@ -1,15 +1,15 @@
 # Dinosaur-Game-in-C
 
-## DinoRun
+# DinoRun
 
 A Dinosaur Run Game based on C Programming Language
 
 *********************************************************
 
 
-# Developed: August 2021
+## Developed: August 2021
 
-# Developers:
+## Developers:
 
 Sanjiv Pahari
 Krishna Gupta
