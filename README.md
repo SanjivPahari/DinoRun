@@ -4,6 +4,11 @@ A Dinosaur Run Game based on C Programming Language
 
 *********************************************************
 
+![alt text](game screen.png "Logo Title Text 1")
+
+
+
+
 
 #### Developed: August 2021
 
