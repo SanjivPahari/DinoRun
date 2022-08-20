@@ -22,7 +22,7 @@ We developed this project during my 1st sem during Bachelor of Mechanical Engine
 
 *********************************************************
 
-ABSTRACT
+## ABSTRACT
 
 A computer can be used in a variety of ways. People use computers in accordance
 with their needs. People's lifestyles have also changed dramatically as a result of
@@ -45,7 +45,7 @@ to jump the given obstacle. If the player hits the obstacle, the game ends there
 
 *********************************************************
 
-CODING OF THE PROJECT
+## CODING OF THE PROJECT
 
 Here the program for the game was written in C programming language and various
 functions are used to accomplish the final result. The following are the functions used in
@@ -55,9 +55,9 @@ Int main()
 
 It is the main function of program. The execution of the program starts from here.
 
-####################
 
 Void menu()
+
 This function is used to display the initial menu to choose for user.
 
 Void Dino_Game_Home()
@@ -65,26 +65,33 @@ This function is the home screen displayed after user chooses to play a new game
 Every part of the game is displayed within this function.
 
 Void Dino_Game_Main_Display()
+
 This function displays the data including the current score and the highest score of
 user.
 
 Void top10_score()
+
 this function displays the highest 10 scores scored by users.
 
 Void your_rank()
+
 this function displays the highest scores scored by a specific user.
 
 Void reset_history()
+
 This function is used to reset all the data that is stored including the highest score
 and user data.
 
 Void updatae_highscore()
+
 This function is used to update the highest score in real time.
 
 Void print_obstacle()
+
 This function prints the obstacles for dino to jump .
 
 Void print_dino_upperbody()
+
 This function prints, as the name suggests, the body of the dino in game.
 
 
