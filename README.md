@@ -4,7 +4,7 @@ A Dinosaur Run Game based on C Programming Language
 
 *********************************************************
 
-![This is an image](/game screen.png)
+![This is an image](game screen.png)
 
 
 
