@@ -1,15 +1,15 @@
 # Dinosaur-Game-in-C
 
-DinoRun
+## DinoRun
 
 A Dinosaur Run Game based on C Programming Language
 
 *********************************************************
 
 
-Developed: August 2021
+# Developed: August 2021
 
-Developers:
+# Developers:
 
 Sanjiv Pahari
 Krishna Gupta
@@ -52,7 +52,10 @@ functions are used to accomplish the final result. The following are the functio
 the program.
 
 Int main()
+
 It is the main function of program. The execution of the program starts from here.
+
+####################
 
 Void menu()
 This function is used to display the initial menu to choose for user.
