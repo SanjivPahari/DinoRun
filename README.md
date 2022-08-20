@@ -16,7 +16,7 @@ A Dinosaur Run Game based on C Programming Language
 - Manoj Bhatta
 - Nabin Chaudhary
 
-We developed this project during my 1st sem during Bachelor of Mechanical Engineering at Pulchowk Campus, IOE, TU.
+We developed this project during my 1st sem during Bachelor of Mechanical Engineering at Pulchowk Campus, Institute of Engineering, Tribhuwan University.
 
 
 
@@ -50,6 +50,8 @@ to jump the given obstacle. If the player hits the obstacle, the game ends there
 Here the program for the game was written in C programming language and various
 functions are used to accomplish the final result. The following are the functions used in
 the program.
+
+```c
 
 Int main()
 
@@ -94,4 +96,4 @@ Void print_dino_upperbody()
 
 This function prints, as the name suggests, the body of the dino in game.
 
-
+```
