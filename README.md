@@ -4,9 +4,9 @@ A Dinosaur Run Game based on C Programming Language
 
 *********************************************************
 
-![Home Screen](home screen.png)
+![Home Screen](home%20screen.png)
 
-![Game Screen](game screen.png)
+![Game Screen](game%20screen.png)
 
 ![ScoreBoard](scoreboard.png)
 
