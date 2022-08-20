@@ -22,7 +22,7 @@ A Dinosaur Run Game based on C Programming Language
 - Manoj Bhatta
 - Nabin Chaudhary
 
-We developed this project during my 1st sem during Bachelor of Mechanical Engineering at Pulchowk Campus, Institute of Engineering, Tribhuwan University.
+We developed this project during my 1st semester during Bachelor of Mechanical Engineering at Pulchowk Campus, Institute of Engineering, Tribhuwan University.
 
 
 
