@@ -48,6 +48,15 @@ We have developed a simple game in c-programming language. The game is titled
 landscape, avoiding obstacles to achieve a higher score. The player presses the spacebar
 to jump the given obstacle. If the player hits the obstacle, the game ends there.
 
+*********************************************************
+
+## Main Files
+
+**main_game.c**
+> This is the main c file with all the codes.
+
+**scores.txt**
+> Scores are stored in this file.
 
 *********************************************************
 
